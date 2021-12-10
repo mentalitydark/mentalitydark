@@ -1,16 +1,23 @@
-### Hi there 👋
+## Oii! Eu sou o Guilherme Oliveira 👋
 
-<!--
-**mentalitydark/mentalitydark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/mentalitydark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mentalitydark&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mentalitydark&layout=compact&langs_count=7&theme=ocean_dark"/>
+  </a>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ##
+ 
+<div>
+  <a href="https://www.twitch.tv/mentalitydark"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+  <a href="https://steamcommunity.com/id/mentadk"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/></a>
+  <a href="https://discord.gg/VSbuuMz"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</div>
+    
+ 
+ ![Snake animation](https://github.com/mentalitydark/mentalitydark/blob/output/github-contribution-grid-snake.svg)
+- 🔭 Trabalho na empresa Datamex como desenvolvedor.
+- 🌱 Sempre estudando sobre as linguagens de programação, principalmente javascript.
+- 📫 Contate-me no email: guilherme.oliveira.01@outlook.com
+- ⚡ Gosto muito de jogos.
