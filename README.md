@@ -27,6 +27,6 @@
  
  ![Snake animation](https://github.com/mentalitydark/mentalitydark/blob/output/github-contribution-grid-snake.svg)
 - 🔭 Trabalho na empresa Datamex como desenvolvedor.
-- 🌱 Sempre estudando sobre as linguagens de programação, principalmente javascript.
+- 🌱 Estudando sobre criação de jogos na Unity.
 - 📫 Contate-me no email: guilherme.oliveira.01@outlook.com
 - ⚡ Gosto muito de jogos.
