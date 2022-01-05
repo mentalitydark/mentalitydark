@@ -1,4 +1,5 @@
 ## Oii! Eu sou o Guilherme Oliveira 👋
+### Utilizo MentalityDark na internet por ser meu nickname em jogos. Se quiser jogar junto é só me adicionar na steam ou no discord (MentalityDark#6702)
 
 <div align="center">
   <a href="https://github.com/mentalitydark">
