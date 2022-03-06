@@ -28,6 +28,6 @@
  
  ![Snake animation](https://github.com/mentalitydark/mentalitydark/blob/output/github-contribution-grid-snake.svg)
 - 💼 Desenvolvedor na empresa Datamex.
-- 📖 Estudando sobre criação de jogos na Unity.
+- 📖 Estudando sobre UX.
 - 📧 Contate-me no email: guilherme.oliveira.01@outlook.com
 - ⚡ Gosto muito de jogos.
