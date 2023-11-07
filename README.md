@@ -20,5 +20,6 @@
  ![Snake animation](https://github.com/mentalitydark/mentalitydark/blob/output/github-contribution-grid-snake.svg)
 - 💼 Desenvolvedor full stack
 - 📖 Estudante de Engenharia de Software
+- 📖 Estudei Informática para Internet em IFRS
 - 📧 Contate-me no email `guilherme.oliveira.01@outlook.com` ou no discord `mentalitydark`
 - ⚡ Gosto muito de jogos.
