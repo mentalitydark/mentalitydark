@@ -1,11 +1,13 @@
 ## Olá. Meu nome é Guilherme Oliveira 👋
 #### Programo desde os 15 anos (2017) e desde então sou apaixonado por Javascript (Typescript também).
 
-<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mentalitydark&theme=react&line_height=100"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mentalitydark&layout=compact)
 <div style="display: inline_block">
   <img align="center" height="44" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" height="44" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align="center" height="44" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+  <img align="center" height="44" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height="44" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" height="44" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" height="44" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
 
