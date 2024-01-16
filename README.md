@@ -19,7 +19,7 @@
 </div>
     
  
- ![Snake animation](https://github.com/mentalitydark/mentalitydark/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/mentalitydark/mentalitydark/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dar)
 - 💼 Desenvolvedor full stack
 - 📖 Estudante de Engenharia de Software
 - 📖 Estudei Informática para Internet em IFRS
